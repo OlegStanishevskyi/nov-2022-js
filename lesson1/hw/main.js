@@ -10,23 +10,23 @@ let domen ='com'
 console.log(domen)
 let ua ='country'
 console.log(ua)
-let number1 =1
+let number1 = 1
 console.log(number1)
-let number10 =10
+let number10 = 10
 console.log(number10)
 let numberminus999 = -999
 console.log(numberminus999)
 let number123 = 123
 console.log(number123)
-let pi =3.14
+let pi = 3.14
 console. log(pi)
 let number2point7 = 2.7
 console.log(number2point7)
 let number16 = 16
 console.log(number16)
-let bool1 = 'true'
+let bool1 = true
 console.log(bool1);
-let bool2 = 'false'
+let bool2 = false
 console.log(bool2);
 
 // Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person (Не об'єкт, просто за допомоги конкатенації)
