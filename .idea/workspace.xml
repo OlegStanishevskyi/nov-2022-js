@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d77df56-e6a8-437c-9966-a82e9ae52477" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/hw/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov-2022-js.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0d77df56-e6a8-437c-9966-a82e9ae52477" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,11 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667385360944</updated>
-      <workItem from="1667385362227" duration="7725000" />
+      <workItem from="1667385362227" duration="8037000" />
     </task>
+    <task id="LOCAL-00001" summary="do hw 1 js">
+      <created>1667393180793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667393180793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="do hw 1 js" />
+    <option name="LAST_COMMIT_MESSAGE" value="do hw 1 js" />
   </component>
 </project>
