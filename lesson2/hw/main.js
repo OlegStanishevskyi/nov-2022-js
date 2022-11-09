@@ -1,6 +1,17 @@
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
-let arr = [100500, true, false, 50, 'hello']
-console.log(arr);
+let arr = []
+arr[0]= 1;
+arr[1]= `man`;
+arr[2] = `true`;
+arr[3] = '100500';
+arr[4]= `mother`;
+
+console.log(arr[0]);
+console.log(arr[1]);
+console.log(arr[2]);
+console.log(arr[3]);
+console.log(arr[4]);
+
 
 // Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 let book1 = {

@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d77df56-e6a8-437c-9966-a82e9ae52477" name="Changes" comment="do hw 1 js">
-      <change afterPath="$PROJECT_DIR$/lesson2/hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/hw/main.js" afterDir="false" />
+    <list default="true" id="0d77df56-e6a8-437c-9966-a82e9ae52477" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/if/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/hw/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/hw/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
@@ -36,19 +40,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roman\nov-2022-js\lesson2\hw" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +72,7 @@
       <workItem from="1667405626594" duration="27000" />
       <workItem from="1667665494568" duration="1482000" />
       <workItem from="1667667356903" duration="568000" />
-      <workItem from="1667900133326" duration="6219000" />
+      <workItem from="1667900133326" duration="16366000" />
     </task>
     <task id="LOCAL-00001" summary="do hw 1 js">
       <created>1667393180793</created>
@@ -99,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667394563123</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="do hw less2">
+      <created>1667911181815</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667911181815</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="do hw 1 js" />
-    <option name="LAST_COMMIT_MESSAGE" value="do hw 1 js" />
+    <MESSAGE value="do hw less2" />
+    <option name="LAST_COMMIT_MESSAGE" value="do hw less2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
