@@ -1,2 +1,3 @@
-let answer = confirm(`є 18 років ?`);
-console.log(answer);
+const items = ["Ukraine", 2022, true, undefined, null, {}];
+
+const number = items[1]
