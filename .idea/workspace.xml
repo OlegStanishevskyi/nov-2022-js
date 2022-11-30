@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d77df56-e6a8-437c-9966-a82e9ae52477" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/les5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/if/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3/hw/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/hw/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +80,20 @@
       <workItem from="1667900133326" duration="16721000" />
       <workItem from="1668107790538" duration="1359000" />
       <workItem from="1668110804829" duration="1052000" />
-      <workItem from="1668423577719" duration="10235000" />
+      <workItem from="1668423577719" duration="11350000" />
+      <workItem from="1668439459668" duration="1003000" />
+      <workItem from="1668443522703" duration="2515000" />
+      <workItem from="1668506173492" duration="446000" />
+      <workItem from="1668506647877" duration="949000" />
+      <workItem from="1668507733764" duration="1848000" />
+      <workItem from="1668612653436" duration="4381000" />
+      <workItem from="1668618042534" duration="10457000" />
+      <workItem from="1669024521716" duration="23627000" />
+      <workItem from="1669230649255" duration="6248000" />
+      <workItem from="1669290638919" duration="1956000" />
+      <workItem from="1669296073162" duration="297000" />
+      <workItem from="1669300510275" duration="10732000" />
+      <workItem from="1669801156072" duration="5162000" />
     </task>
     <task id="LOCAL-00001" summary="do hw 1 js">
       <created>1667393180793</created>
@@ -133,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668012705147</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="do hw less4">
+      <created>1668438457957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668438457957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="do hw less4">
+      <created>1668438575702</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668438575702</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +175,8 @@
     <MESSAGE value="do hw 1 js" />
     <MESSAGE value="do hw less2" />
     <MESSAGE value="do hw less3" />
-    <option name="LAST_COMMIT_MESSAGE" value="do hw less3" />
+    <MESSAGE value="do hw less4" />
+    <option name="LAST_COMMIT_MESSAGE" value="do hw less4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
