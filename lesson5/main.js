@@ -93,28 +93,26 @@
 
 // - створити функцію яка повертає найменьше число з масиву
 
-// let arr = [3,4,5,2,7,1,4]
+// let arr = [4,5,6,3,7,2,8]
 // function foo (array) {
 //     let min = array[0];
 //     for (const item of array) {
-//         if (item<min) {
+//         if (item < min) {
 //             min = item
 //         }
-//     }
-//     return min
+//     } return min
 // }
 //
 // console.log(foo(arr));
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
-// let arr = [1,2,3]
-// function foo (massive) {
+//
+// let arr = [1,2,3,4]
+// function foo (array) {
 //     let sum = 0;
-//     for (const item of massive) {
+//     for (const item of array) {
 //         sum += item;
-//     }
-//     return sum
+//     } return sum
 // }
 //
 // console.log(foo(arr));
-
