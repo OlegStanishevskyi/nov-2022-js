@@ -103,9 +103,9 @@
 // ______________________________________________________________________________________________________
 // class Car {
 //     constructor(model,producer,year,maxSpeed) {
-//         this.model = model;
-//         this.producer = producer;
-//         this.year = year;
+//         this.modell = model;
+//         this.producerr = producer;
+//         this.yearr = year;
 //         this.maxSpeedd = maxSpeed;
 //
 //     }
@@ -120,10 +120,10 @@
 //         }
 //     }
 //     increaseMaxSpeed (newSpeed) {
-//         this.maxSpeed += newSpeed;
+//         this.maxSpeedd += newSpeed;
 //     }
 //     changeYear (newValue) {
-//         this.year = newValue;
+//         this.yearr = newValue;
 //     }
 //     addDriver (driver) {
 //         this.driver = driver
@@ -137,6 +137,7 @@
 // car.increaseMaxSpeed(40);
 // car.changeYear(2010);
 // car.addDriver({name:'oleg',age:'22'});
+// console.log(car);
 
 // ________________________________________________________________________________________________________________
 
